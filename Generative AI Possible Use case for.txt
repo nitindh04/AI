@@ -1,0 +1,32 @@
+Generative AI Possible Use case for TRIRIGA 
+
+To get the easy reporting for Lease, Space and another object using Generative AI        
+
+A.	No Spaces allocated /Unallocated/ Overutilized/underutilized.
+B.	Real Time crowd presence in building/floor
+C.	No of work order crossing SLAS
+D.	No of leases nearing to expiry/Renewal
+E.	Others 
+
+2.	To Create Records using Generative AI
+
+A.	1.Create Lease/Payment Schedules with minimum data from User
+B.	2.Create Hierarchy of Location/Buildings/Floors/Spaces 
+
+3.	To suggest actions
+
+A.	Light/AC vent arrangement /Adjustment based on real time crowd Presence to save the end.
+B.	Provide /Suggest the optimized layout based on space reporting to reduce energy consumption.
+
+4.	To provide
+
+A.	Helpdesk information
+B.	Details SOPs for every operation in TRIRIGA (How To)
+
+5.	Generate the documents or images to requested information.
+
+A.	Integrated Chatbot in TRIRIGA to search and perform Approvals quickly.
+B.	Integrated Chatbot in TRIRIGA to create facility Service requests.
+C.	Predictive Maintenance - Generating maintenance schedules, predicting equipment failure.
+D.	Space Optimization-generating efficient floor plans, designing office layouts and space. 
+E.	Generating personalized reports and dashboards based on user preference. 
